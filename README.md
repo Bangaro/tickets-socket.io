@@ -1,4 +1,4 @@
-# Socket Server Basico
+# Basic Socket Server 
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Server using Node, Express y Socket.io
 
